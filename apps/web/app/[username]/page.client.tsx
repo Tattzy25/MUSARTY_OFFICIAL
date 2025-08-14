@@ -119,7 +119,7 @@ export function UserPageClient({ user, initialTab }: UserPageClientProps) {
                       href={appendQueryParam(
                         user.website_url,
                         "ref",
-                        "21st.dev",
+                        "Musarty",
                       )}
                       target="_blank"
                       rel="noopener noreferrer"

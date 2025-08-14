@@ -162,7 +162,7 @@ export default function TermsOfService() {
                 <br />
                 Phone: (628) 227-7780
                 <br />
-                Email: support@21st.dev
+                Email: support@musarty.com
               </p>
             </section>
           </div>

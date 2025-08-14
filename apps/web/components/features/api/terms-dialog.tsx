@@ -233,10 +233,10 @@ export function TermsDialog({ open, onAccept, onClose }: TermsDialogProps) {
                         For support, questions, or to report potential misuse,
                         please contact us at{" "}
                         <Link
-                          href="mailto:support@21st.dev"
+                          href="mailto:support@musarty.com"
                           className="text-primary hover:underline"
                         >
-                          support@21st.dev
+                          support@musarty.com
                         </Link>
                       </p>
                     </div>

@@ -167,7 +167,7 @@ export function ComponentCard({
               Please sign in to bookmark components
             </p>
           </div>
-          <Link href="https://accounts.21st.dev/sign-in">
+          <Link href="https://accounts.musarty.com/sign-in">
             <Button size="sm" variant="outline">
               Sign In
             </Button>
@@ -221,7 +221,7 @@ export function ComponentCard({
               Please sign in to vote
             </p>
           </div>
-          <Link href="https://accounts.21st.dev/sign-in">
+          <Link href="https://accounts.musarty.com/sign-in">
             <Button size="sm" variant="outline">
               Sign In
             </Button>

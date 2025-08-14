@@ -329,12 +329,12 @@ export function Hero() {
             Empower your IDE with an AI extension that creates stunning,
             production-ready components inspired by{" "}
             <Link
-              href="https://21st.dev"
+              href="https://musarty.com"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-neutral-50 transition-colors"
             >
-              21st.dev
+Musarty
             </Link>
           </motion.p>
 

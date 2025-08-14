@@ -57,7 +57,7 @@ export function HeroSection() {
           >
             <div className="flex items-center gap-3">
               <div className="h-6 w-6 rounded-full bg-foreground" />
-              <span className="font-semibold text-foreground">21st.dev</span>
+              <span className="font-semibold text-foreground">Musarty</span>
             </div>
 
             <div className="h-4 w-[1px] bg-border/60" />

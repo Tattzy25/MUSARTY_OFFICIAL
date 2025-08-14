@@ -129,8 +129,8 @@ export function PricingSection({
     feature: string,
     tier: PricingProps["tiers"][0],
   ) => {
-    if (feature.includes("Premium 21st.dev Components")) {
-      return "Premium 21st.dev Components"
+    if (feature.includes("Premium Musarty Components")) {
+              return "Premium Musarty Components"
     }
     if (feature.includes("AI Component Generation")) {
       return "AI Component Generation"

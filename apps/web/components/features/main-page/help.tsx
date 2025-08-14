@@ -120,7 +120,7 @@ function ShortcutsList() {
         Community Support
       </ExternalLink>
 
-      <ExternalLink href="mailto:support@21st.dev" icon={Mail}>
+      <ExternalLink href="mailto:support@musarty.com" icon={Mail}>
         Support Email
       </ExternalLink>
 
@@ -132,7 +132,7 @@ function ShortcutsList() {
       </ExternalLink>
 
       <ExternalLink
-        href="https://21st.dev/settings"
+        href="https://musarty.com/settings"
         icon={Settings}
         showArrow={false}
       >

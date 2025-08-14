@@ -19,7 +19,7 @@ export const metadata: Metadata = {
   ),
   title: {
     default: `${SITE_NAME} - ${SITE_SLOGAN}`,
-    template: "%s | 21st.dev",
+    template: "%s | Musarty",
   },
   description:
     "Ship polished UIs faster with ready-to-use React Tailwind components inspired by shadcn/ui.",

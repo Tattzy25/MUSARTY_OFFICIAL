@@ -64,7 +64,7 @@ const DEFAULT_FAQS = [
     question: "How can I get help with Magic AI Agent?",
     answer: (
       <>
-        If you need assistance, you can contact us via email at support@21st.dev
+        If you need assistance, you can contact us via email at support@musarty.com
         or join our{" "}
         <Link
           href="https://discord.gg/Qx4rFunHfm"

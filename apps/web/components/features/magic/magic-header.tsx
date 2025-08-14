@@ -43,7 +43,7 @@ export function MagicHeader({ isScrolled }: MagicHeaderProps) {
           className="w-6 h-6"
         />
         <span className="text-white font-medium">
-          Magic <span className="font-light text-gray-400">by 21st.dev</span>
+          Magic <span className="font-light text-gray-400">by Musarty</span>
         </span>
       </div>
       <div className="flex items-center gap-4">

@@ -108,7 +108,7 @@ export function ApiKeySection({
       <div className="flex justify-start">
         <Button
           onClick={() => {
-            window.location.href = `https://accounts.21st.dev/sign-in?redirect_url=${encodeURIComponent("https://21st.dev/magic/console")}`
+            window.location.href = `https://accounts.musarty.com/sign-in?redirect_url=${encodeURIComponent("https://musarty.com/magic/console")}`
           }}
           variant="default"
         >
