@@ -64,9 +64,9 @@ export const InviteEmail = ({ inviteUrl }: InviteEmailProps) => {
             <Text style={footer}>
               Best wishes,
               <br />
-              Serafim
+              Musarty Team
               <br />
-              <span style={subtitle}>Co-founder of Musarty</span>
+              <span style={subtitle}>The Musarty Team</span>
             </Text>
           </Section>
         </Container>

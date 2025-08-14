@@ -3,9 +3,9 @@ import { MagicPageClient } from "./page.client"
 
 export const metadata: Metadata = {
   title:
-    "Magic - AI Agent for Your IDE That Creates Professional UI Components | 21st.dev",
+    "Musarty - The Legendary AI Agent That Forges Immortal UI Components | Musarty.com",
   description:
-    "Transform your IDE with our AI agent that understands Modern Component Patterns. Create production-ready UI components in seconds instead of hours. Built for developers who want beautiful, consistent, and maintainable React components.",
+    "Unleash the power of Musarty, the legendary AI agent that transcends ordinary development. Forge immortal UI components with divine precision and craft legendary interfaces that stand the test of time. Where mortals struggle for hours, legends create in seconds.",
   keywords: [
     "Cursor IDE",
     "AI code editor",
@@ -27,21 +27,21 @@ export const metadata: Metadata = {
   ],
   openGraph: {
     title:
-      "Magic - AI Agent for Your IDE That Creates Professional UI Components | 21st.dev",
+      "Musarty - The Legendary AI Agent That Forges Immortal UI Components | Musarty.com",
     description:
-      "Transform your IDE with our AI agent that understands Modern Component Patterns. Create production-ready UI components in seconds instead of hours. Built for developers who want beautiful, consistent, and maintainable React components.",
-    images: ["/magic-agent-og-image.png"],
+      "Unleash the power of Musarty, the legendary AI agent that transcends ordinary development. Forge immortal UI components with divine precision and craft legendary interfaces that stand the test of time. Where mortals struggle for hours, legends create in seconds.",
+    images: ["https://i.imgur.com/Vqk9NEQ.png"],
     type: "website",
-    siteName: "21st.dev",
+    siteName: "Musarty.com",
     locale: "en_US",
   },
   twitter: {
     card: "summary_large_image",
     title:
-      "Magic - AI Agent for Your IDE That Creates Professional UI Components | 21st.dev",
+      "Musarty - The Legendary AI Agent That Forges Immortal UI Components | Musarty.com",
     description:
-      "Transform your IDE with our AI agent that understands Modern Component Patterns. Create production-ready UI components in seconds instead of hours. Built for developers who want beautiful, consistent, and maintainable React components.",
-    images: ["/magic-agent-og-image.png"],
+      "Unleash the power of Musarty, the legendary AI agent that transcends ordinary development. Forge immortal UI components with divine precision and craft legendary interfaces that stand the test of time. Where mortals struggle for hours, legends create in seconds.",
+    images: ["https://i.imgur.com/Vqk9NEQ.png"],
   },
 }
 

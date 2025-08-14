@@ -90,7 +90,7 @@ export async function sendSubmissionStatusEmail({
     const componentUrl = `${baseUrl}/${submission.user_data.username}/${submission.component_data.component_slug}/${submission.demo_slug}`
 
     const data = await resend.emails.send({
-      from: "Serafim from Musarty <support@musarty.com>",
+      from: "Musarty Team <support@musarty.com>",
       to: userEmail,
       replyTo: "Musarty Support <support@musarty.com>",
       subject: getEmailSubject(status, componentName),

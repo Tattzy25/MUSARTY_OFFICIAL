@@ -89,6 +89,16 @@ double_confirm_changes = true
 # If enabled, users need to confirm their email address before signing in.
 enable_confirmations = false
 
+# Configure SMTP settings for sending emails via Resend
+[auth.email.smtp]
+enabled = true
+host = "smtp.resend.com"
+port = 465
+user = "resend"
+pass = "env(RESEND_API_KEY)"
+admin_email = "support@musarty.com"
+max_frequency = "1s"
+
 # Uncomment to customize email template
 # [auth.email.template.invite]
 # subject = "You have been invited"
